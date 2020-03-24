@@ -58,6 +58,13 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :book: [Reverse engineering malware](https://malwareunicorn.org/#/workshops) by MalwareUnicorn 
 ### OSINT
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
+  - :book: [How To Guides](https://www.bellingcat.com/category/resources/how-tos/) by Bellingcat
+  - :book: [10 minute tips](https://osintcurio.us/10-minute-tips/) by Osintcurious
+  - :book: [Crypto weekly](https://us14.campaign-archive.com/home/?u=c435f53a5568f7951404c8a38&id=7f8ca9c380/) by Bellingcat
+  - :book: [OSINT weekly](https://medium.com/week-in-osint) by Sector035
+#### CTF
+  - :globe_with_meridians: [OSINT quiz](https://twitter.com/Sector035/status/1211038518635614208) by Sector035
+  - :globe_with_meridians: [Cyber Detective CTF](https://ctf.cybersoc.wales/) by Cardiff University
 ### Programming
   - :book: [Free programming books](https://books.goalkicker.com/)
   - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
