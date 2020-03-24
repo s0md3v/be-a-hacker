@@ -34,6 +34,8 @@ If you know of a good resource for a subject, please [open an issue](https://git
 #### Android Security
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
   - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
+### IoT Security
+  - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
 ### Web Security
   - :book: The Web Application Hacker's Handbook
   - :mortar_board: [Web Security Class](https://web.stanford.edu/class/cs253/) by Stanford University
