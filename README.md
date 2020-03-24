@@ -44,7 +44,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
 #### Android Security
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
   - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
-  - :book: [Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
+  - :globe_with_meridians: [Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
 #### IoT Security
   - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
 #### Web Security
@@ -55,13 +55,13 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :mortar_board: [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university) by Bugcrowd
 ### Malware Analysis
   - :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati
-  - :book: [Reverse engineering malware](https://malwareunicorn.org/#/workshops) by MalwareUnicorn 
+  - :globe_with_meridians: [Reverse engineering malware](https://malwareunicorn.org/#/workshops) by MalwareUnicorn 
 ### OSINT
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
-  - :book: [How To Guides](https://www.bellingcat.com/category/resources/how-tos/) by Bellingcat
-  - :book: [10 minute tips](https://osintcurio.us/10-minute-tips/) by Osintcurious
-  - :book: [Crypto weekly](https://us14.campaign-archive.com/home/?u=c435f53a5568f7951404c8a38&id=7f8ca9c380/) by Bellingcat
-  - :book: [OSINT weekly](https://medium.com/week-in-osint) by Sector035
+  - :globe_with_meridians: [How To Guides](https://www.bellingcat.com/category/resources/how-tos/) by Bellingcat
+  - :tv: [10 minute tips](https://osintcurio.us/10-minute-tips/) by Osintcurious
+  - :globe_with_meridians: [Crypto weekly](https://us14.campaign-archive.com/home/?u=c435f53a5568f7951404c8a38&id=7f8ca9c380/) by Bellingcat
+  - :globe_with_meridians: [OSINT weekly](https://medium.com/week-in-osint) by Sector035
 #### CTF
   - :globe_with_meridians: [OSINT quiz](https://twitter.com/Sector035/status/1211038518635614208) by Sector035
   - :globe_with_meridians: [Cyber Detective CTF](https://ctf.cybersoc.wales/) by Cardiff University
