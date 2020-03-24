@@ -53,6 +53,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
 ### OSINT
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
 ### Programming
+  - :book: [Free programming books](https://books.goalkicker.com/)
   - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
   - :mortar_board: [codecademy.com](https://www.codecademy.com/catalog/subject/all) - Freemium interactive courses
 #### Go
