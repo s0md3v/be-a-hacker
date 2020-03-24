@@ -7,7 +7,8 @@ If you know of a good resource for a subject, please [open an issue](https://git
 ## Index
 - [Computer Science](https://github.com/s0md3v/learn-at-home#computer-science)
 - [Cryptography](https://github.com/s0md3v/learn-at-home#computer-science)
-- [General Resources](https://github.com/s0md3v/learn-at-home#computer-science)
+- [Digital Forensics](https://github.com/s0md3v/learn-at-home#digital-forensics)
+- [General Resources](https://github.com/s0md3v/learn-at-home#general-resources)
   - [Books](https://github.com/s0md3v/learn-at-home#books)
   - [YouTube Channels](https://github.com/s0md3v/learn-at-home#youtue-channels)
 - [Graphics](https://github.com/s0md3v/learn-at-home#graphics)
@@ -27,6 +28,8 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :mortar_board: [Cryptography by Stanford University](https://www.coursera.org/learn/crypto) [Coursera]
   - :book: [Crypto101](https://www.crypto101.io)
   - :book: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
+### Digital Forensics
+  - [Computer Forensics subreddit wiki](https://www.reddit.com/r/computerforensics/wiki/faq#wiki_forensics.3A_where.2Fhow_do_i_begin.3F)
 ### General Resources
 #### Books
   - :book: *Godel, Escher, Bach* by Douglas Hofstadter
