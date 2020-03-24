@@ -21,6 +21,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
 ### OSINT
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
 ### Programming
+  - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
 #### Go
   - :globe_with_meridians: [gobyexample.com](https://gobyexample.com)
 #### Python
