@@ -28,6 +28,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :book: *Learn Python the hard way* by Zed Shaw
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
 ### Reverse Engineering
+  - :book: [Reverse engineering for beginners](https://beginners.re/)
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
 ### Information Security
 #### Android Security
@@ -35,5 +36,6 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
 ### Web Security
   - :book: The Web Application Hacker's Handbook
+  - :mortar_board: [Web Security Class](https://web.stanford.edu/class/cs253/) by Stanford University
   - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
   - :mortar_board: [WebSecurity Academy](https://portswigger.net/web-security) by Portswigger
