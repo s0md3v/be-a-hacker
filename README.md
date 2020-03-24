@@ -74,6 +74,9 @@ If you know of a good resource for a subject, please [open an issue](https://git
 #### Python
   - :book: *Learn Python the hard way* by Zed Shaw
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
+  - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide
+#### JavaScript
+- :globe_with_meridians: [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - A step by step guide
 ### Reverse Engineering
   - :book: [Reverse engineering for beginners](https://beginners.re/)
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
