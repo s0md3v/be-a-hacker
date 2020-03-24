@@ -4,6 +4,17 @@ This repository aims to maintain the best beginner friendly resources for variou
 #### Want to add something?
 If you know of a good resource for a subject, please [open an issue](https://github.com/s0md3v/learn-at-home/issues) or a [pull request](https://github.com/s0md3v/learn-at-home/pulls) and the whole internet will be grateful to you.
 
+## Index
+- [Computer Science](https://github.com/s0md3v/learn-at-home#computer-science)
+- [Cryptography](https://github.com/s0md3v/learn-at-home#computer-science)
+- [General Resources](https://github.com/s0md3v/learn-at-home#computer-science)
+- [Graphics](https://github.com/s0md3v/learn-at-home#graphics)
+- [Information Security](https://github.com/s0md3v/learn-at-home#information-security)
+- [Malware Analysis](https://github.com/s0md3v/learn-at-home#malware-analysis)
+- [OSINT](https://github.com/s0md3v/learn-at-home#osint)
+- [Programming](https://github.com/s0md3v/learn-at-home#programming)
+- [Reverse Engineering](https://github.com/s0md3v/learn-at-home#reverse-engineering)
+
 ### Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
