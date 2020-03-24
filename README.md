@@ -19,6 +19,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :book: Photoshop for Dummies
   - :tv: [Piximperfect](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
 ### Information Security
+  - :information_source: [infocon.org](https://infocon.org) - Archive of various security related cons and podcasts
 #### Android Security
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
   - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
