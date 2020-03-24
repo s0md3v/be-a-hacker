@@ -18,6 +18,8 @@ If you know of a good resource for a subject, please [open an issue](https://git
 ### Graphics
   - :book: Photoshop for Dummies
   - :tv: [Piximperfect](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
+### OSINT
+  - :book: *Open Source Intelligence Techniques* by Michael Bazzell
 ### Programming
 #### Go
   - :globe_with_meridians: [gobyexample.com](https://gobyexample.com)
