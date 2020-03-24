@@ -18,6 +18,17 @@ If you know of a good resource for a subject, please [open an issue](https://git
 ### Graphics
   - :book: Photoshop for Dummies
   - :tv: [Piximperfect](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
+### Information Security
+#### Android Security
+  - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
+  - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
+#### IoT Security
+  - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
+#### Web Security
+  - :book: The Web Application Hacker's Handbook
+  - :mortar_board: [Web Security Class](https://web.stanford.edu/class/cs253/) by Stanford University
+  - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
+  - :mortar_board: [WebSecurity Academy](https://portswigger.net/web-security) by Portswigger
 ### OSINT
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
 ### Programming
@@ -30,14 +41,3 @@ If you know of a good resource for a subject, please [open an issue](https://git
 ### Reverse Engineering
   - :book: [Reverse engineering for beginners](https://beginners.re/)
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
-### Information Security
-#### Android Security
-  - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
-  - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
-### IoT Security
-  - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
-### Web Security
-  - :book: The Web Application Hacker's Handbook
-  - :mortar_board: [Web Security Class](https://web.stanford.edu/class/cs253/) by Stanford University
-  - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
-  - :mortar_board: [WebSecurity Academy](https://portswigger.net/web-security) by Portswigger
