@@ -44,6 +44,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
 #### Android Security
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
   - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
+  - :book: [Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
 #### IoT Security
   - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
 #### Web Security
