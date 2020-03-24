@@ -51,6 +51,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :mortar_board: [Web Security course](https://web.stanford.edu/class/cs253/) by Stanford University
   - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
   - :mortar_board: [WebSecurity Academy](https://portswigger.net/web-security) by Portswigger
+  - :mortar_board: [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university) by Bugcrowd
 ### Malware Analysis
   - :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati
 ### OSINT
