@@ -54,6 +54,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :mortar_board: [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university) by Bugcrowd
 ### Malware Analysis
   - :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati
+  - :book: [Reverse engineering workshops](https://malwareunicorn.org/#/workshops) by MalwareUnicorn 
 ### OSINT
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
 ### Programming
