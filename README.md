@@ -29,9 +29,11 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
 #### Web Security
   - :book: The Web Application Hacker's Handbook
-  - :mortar_board: [Web Security Class](https://web.stanford.edu/class/cs253/) by Stanford University
+  - :mortar_board: [Web Security course](https://web.stanford.edu/class/cs253/) by Stanford University
   - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
   - :mortar_board: [WebSecurity Academy](https://portswigger.net/web-security) by Portswigger
+### Malware Analysis
+  - :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati
 ### OSINT
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
 ### Programming
