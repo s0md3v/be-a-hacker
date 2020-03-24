@@ -1,5 +1,7 @@
-### Want to add something?
-This repository aims to maintain the best resources for various subjects to help people learn at home.
+### Introduction
+This repository aims to maintain the best beginner friendly resources for various subjects to help people learn at home. All the resources mentioned here are supposed to give you at least enough knowledge to help you figure out how to proceed in order to master that subject.
+
+#### Want to add something?
 If you know of a good resource for a subject, please [open an issue](https://github.com/s0md3v/learn-at-home/issues) or a [pull request](https://github.com/s0md3v/learn-at-home/pulls) and the whole internet will be grateful to you.
 
 ### Computer Science
