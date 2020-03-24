@@ -6,7 +6,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
 
 ## Index
 - [Computer Science](https://github.com/s0md3v/learn-at-home#computer-science) - Learn how computers work!
-- [Cryptography](https://github.com/s0md3v/learn-at-home#computer-science) - Solve information hidden in secret codes!
+- [Cryptography](https://github.com/s0md3v/learn-at-home#computer-science) - Learn to solve hidden secret codes!
 - [Digital Forensics](https://github.com/s0md3v/learn-at-home#digital-forensics) - Become an investigator of computers!
 - [General Resources](https://github.com/s0md3v/learn-at-home#general-resources) - Great learning resources!
   - [Books](https://github.com/s0md3v/learn-at-home#books)
