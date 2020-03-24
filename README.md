@@ -26,6 +26,8 @@ If you know of a good resource for a subject, please [open an issue](https://git
 #### Python
   - :book: *Learn Python the hard way* by Zed Shaw
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
+### Reverse Engineering
+  - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
 ### Information Security
 #### Android Security
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
