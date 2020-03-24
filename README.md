@@ -5,21 +5,21 @@ This repository aims to maintain the best beginner friendly resources for variou
 If you know of a good resource for a subject, please [open an issue](https://github.com/s0md3v/learn-at-home/issues) or a [pull request](https://github.com/s0md3v/learn-at-home/pulls) and the whole internet will be grateful to you.
 
 ## Index
-- [Computer Science](https://github.com/s0md3v/learn-at-home#computer-science)
-- [Cryptography](https://github.com/s0md3v/learn-at-home#computer-science)
-- [Digital Forensics](https://github.com/s0md3v/learn-at-home#digital-forensics)
-- [General Resources](https://github.com/s0md3v/learn-at-home#general-resources)
+- [Computer Science](https://github.com/s0md3v/learn-at-home#computer-science) - Learn how computers work!
+- [Cryptography](https://github.com/s0md3v/learn-at-home#computer-science) - Solve information hidden in secret codes!
+- [Digital Forensics](https://github.com/s0md3v/learn-at-home#digital-forensics) - Become an investigator of computers!
+- [General Resources](https://github.com/s0md3v/learn-at-home#general-resources) - Great learning resources!
   - [Books](https://github.com/s0md3v/learn-at-home#books)
   - [YouTube Channels](https://github.com/s0md3v/learn-at-home#youtue-channels)
-- [Graphics](https://github.com/s0md3v/learn-at-home#graphics)
-- [Information Security](https://github.com/s0md3v/learn-at-home#information-security)
-  - [Android Security](https://github.com/s0md3v/learn-at-home#android-security)
-  - [IoT Security](https://github.com/s0md3v/learn-at-home#iot-security)
-  - [Web Security](https://github.com/s0md3v/learn-at-home#web-security)
-- [Malware Analysis](https://github.com/s0md3v/learn-at-home#malware-analysis)
-- [OSINT](https://github.com/s0md3v/learn-at-home#osint)
-- [Programming](https://github.com/s0md3v/learn-at-home#programming)
-- [Reverse Engineering](https://github.com/s0md3v/learn-at-home#reverse-engineering)
+- [Graphics](https://github.com/s0md3v/learn-at-home#graphics) - Learn photo editing and all that!
+- [Information Security](https://github.com/s0md3v/learn-at-home#information-security) - Hack & protect things!
+  - [Android Security](https://github.com/s0md3v/learn-at-home#android-security) - Hack android!
+  - [IoT Security](https://github.com/s0md3v/learn-at-home#iot-security) - Hack cameras, smart TVs and all that!
+  - [Web Security](https://github.com/s0md3v/learn-at-home#web-security) - Hack websites!
+- [Malware Analysis](https://github.com/s0md3v/learn-at-home#malware-analysis) - Analyse computer *viruses*!
+- [OSINT](https://github.com/s0md3v/learn-at-home#osint) - Become an investigator on the internet!
+- [Programming](https://github.com/s0md3v/learn-at-home#programming) - Learn how to create softwares!
+- [Reverse Engineering](https://github.com/s0md3v/learn-at-home#reverse-engineering) - Learn how to break down softwares!
 
 ### Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
