@@ -33,6 +33,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
 ### Programming
   - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
+  - :mortar_board: [codecademy.com](https://www.codecademy.com/catalog/subject/all) - Freemium interactive courses
 #### Go
   - :globe_with_meridians: [gobyexample.com](https://gobyexample.com)
 #### Python
