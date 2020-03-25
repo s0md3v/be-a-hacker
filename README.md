@@ -62,11 +62,13 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :tv: [10 minute tips](https://osintcurio.us/10-minute-tips/) by Osintcurious
   - :globe_with_meridians: [Crypto weekly](https://us14.campaign-archive.com/home/?u=c435f53a5568f7951404c8a38&id=7f8ca9c380) by Bellingcat
   - :globe_with_meridians: [OSINT weekly](https://medium.com/week-in-osint) by Sector035
+  - :globe_with_meridians: [awesome-osint](https://github.com/jivoi/awesome-osint) by jivoi
 #### CTF
   - :globe_with_meridians: [OSINT quiz](https://twitter.com/Sector035/status/1211038518635614208) by Sector035
   - :globe_with_meridians: [Cyber Detective CTF](https://ctf.cybersoc.wales/) by Cardiff University
 ### Programming
   - :book: [Free programming books](https://books.goalkicker.com/)
+  - :book: [Free and good bokks on programming and other technology](http://www.allitebooks.org/)
   - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
   - :mortar_board: [codecademy.com](https://www.codecademy.com/catalog/subject/all) - Freemium interactive courses
 #### Go
