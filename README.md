@@ -33,7 +33,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
 ### General Resources
 #### Books
   - :book: *Godel, Escher, Bach* by Douglas Hofstadter
-#### YouTue channels
+#### YouTube channels
   - :tv: [Art of The Problem](https://www.youtube.com/user/ArtOfTheProblem)
   - :tv: [Crash Course](https://www.youtube.com/user/crashcourse)
 ### Graphics
@@ -75,6 +75,8 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :book: *Learn Python the hard way* by Zed Shaw
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
   - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide
+#### Ruby
+  - :globe_with_meridians: [The Odin Project](https://www.theodinproject.com/courses/ruby-programming) - A step by step guide with a lot of projects.
 #### JavaScript
 - :globe_with_meridians: [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - A step by step guide
 ### Reverse Engineering
