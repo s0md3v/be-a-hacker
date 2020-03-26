@@ -65,6 +65,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
 #### CTF
   - :globe_with_meridians: [OSINT quiz](https://twitter.com/Sector035/status/1211038518635614208) by Sector035
   - :globe_with_meridians: [Cyber Detective CTF](https://ctf.cybersoc.wales/) by Cardiff University
+  - :globe_with_meridians: [Hacker101 CTF](https://ctf.hacker101.com/) by Hackerone
 ### Programming
   - :book: [Free programming books](https://books.goalkicker.com/)
   - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
