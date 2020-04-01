@@ -84,4 +84,4 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :book: [Reverse engineering for beginners](https://beginners.re/)
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
 ### Mega Link For Cybersec Books 
-  - :Link :(https://mega.nz/#F!yRVgCZwa!X2dBn1YuOd4ureIxjM-mZg)
+  - :[Link](https://mega.nz/#F!yRVgCZwa!X2dBn1YuOd4ureIxjM-mZg)
