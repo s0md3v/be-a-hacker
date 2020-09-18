@@ -26,6 +26,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
 ### Cryptography
   - :mortar_board: [Cryptography by Stanford University](https://www.coursera.org/learn/crypto) [Coursera]
+  - :mortar_board: [Cryptography Problems for CTFs](https://cryptohack.org/) [Coursera]
   - :book: [Crypto101](https://www.crypto101.io)
   - :book: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
 ### Digital Forensics
