@@ -22,6 +22,7 @@ If you know of a good resource for a subject, please [open an issue](https://git
 - [Reverse Engineering](https://github.com/s0md3v/learn-at-home#reverse-engineering) - Learn how to break down softwares!
 
 ### Computer Science
+  - :tv: [MIT Course](https://missing.csail.mit.edu/) - The Missing Semester of Your CS Education
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
 ### Cryptography
