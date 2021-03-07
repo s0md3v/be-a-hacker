@@ -40,7 +40,7 @@ They did it because it was a fascinating problem for them to solve and they want
 ## Basic principles
 
 ### Learn how stuff works
-If you want to sell medicine, you will only need a place to store the medicine and hand over whatever a customer needs. On the other, if you want to create cures for diseases, you will need to know how the human body and everything works. Makes sense right? The same applies to hacking. If you want to get really good at hacking something and creating new techniques to do so, you must understand how it works.
+If you want to sell medicine, you will only need a place to store the medicine and hand over whatever a customer needs. On the other hand, if you want to create cures for diseases, you will need to know how the human body and everything works. Makes sense right? The same applies to hacking. If you want to get really good at hacking something and creating new techniques to do so, you must understand how it works.
 
 ### Sharing is cool
 If you have some information that you think might be helpful for other people, share it through social media, forums, or blogs. It will benefit you in many ways:
