@@ -4,6 +4,8 @@ Hacking is the art of using things in unintended ways. For example, if a softwar
 
 There's no 'one right way' to learn hacking, all ways are right ways. That's why the purpose of this guide is to provide a direction rather than a roadmap. It may sound preachy/cringy in parts like the first sentence of this paragraph, sorry about that.
 
+If there's something you think should be added/improved, please [create an issue](https://github.com/s0md3v/be-a-hacker/issues/new).
+
 ## Contents
 - [Origin of hacking](https://github.com/s0md3v/be-a-hacker#origin-of-hacking)
 - [Basic principles](https://github.com/s0md3v/be-a-hacker#basic-principles)
