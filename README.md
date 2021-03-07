@@ -147,9 +147,9 @@ Do freelancing or start applying for jobs.
 ### I think I know nothing, I have no skills.
 Okay, how did you come to this conclusion? Did you get this feedback from multiple recent interviews? Do you just don't understand a single word when two 'experts' of your field are talking?
 
-or, do you just feel so? It's often just a feeling and it's actually an indicator that you are doing good. Dunken-Kruger effect explains it well:
+or, do you just feel so? It's often just a feeling and it's actually an indicator that you are doing good. Dunning-Kruger effect explains it well:
 
-<img alt="dunken-kruger effect" src="assets/dunken-kruger-effect.png" height=400/>
+<img alt="dunning-kruger effect" src="assets/dunken-kruger-effect.png" height=400/>
 
 ### How to avoid burnouts?
 Divide your day into 3 parts:
