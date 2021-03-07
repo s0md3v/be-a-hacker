@@ -135,6 +135,8 @@ Also, do these things:
 ## FAQ
 
 ### How do I earn money?
+Not to hype you up but you can get rich in a day, legally.
+
 **Do you have skills?**
 Do bug bounties or submit vulnerabilities to platforms like [Zerodium](https://zerodium.com/).
 
