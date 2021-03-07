@@ -16,6 +16,7 @@ There's no 'one right way' to learn hacking, all ways are right ways. That's why
     - [Getting started](https://github.com/s0md3v/be-a-hacker#getting-started)
         - [Basics of computer science](https://github.com/s0md3v/be-a-hacker#basics-of-computer-science)
         - [Network basics](https://github.com/s0md3v/be-a-hacker#network-basics)
+        - [Get familiar with terminal](https://github.com/s0md3v/be-a-hacker#get-familiar-with-terminal)
         - [Programming](https://github.com/s0md3v/be-a-hacker#programming)
         - [Basic hacking concepts](https://github.com/s0md3v/be-a-hacker#basic-hacking-concepts)
     - [What's next?](https://github.com/s0md3v/be-a-hacker#whats-next)
@@ -90,7 +91,7 @@ IP address, MAC address, port, client & server, dns, tcp, udp, proxy, tls/ssl, v
   - [TCP/IP protocol explained](https://www.youtube.com/watch?v=e5DEVa9eSN0)
   - [How SSL works?](https://howhttps.works)
 
-#### Get familiar with terminals
+#### Get familiar with terminal
 You will spend a lot of time in the terminal whether it is running programs or accessing remote servers. You can use any operating system but I suggest Linux based operating systems simply because you can modify everything about it which is the essence of hacking. [Ubuntu](https://ubuntu.com/download/desktop) is great linux distribution for beginners.
 
 #### Programming
@@ -157,7 +158,7 @@ Divide your day into 3 parts:
 Burouts happen when you either work for too long or work on the same thing for long. Making sure learn new things and have fun every day will keep burnouts away.
 
 ### I want to do great and innovative things.
-This talk by Haroon Meer tackles this problem very well: [You and your research](https://www.youtube.com/watch?v=JoVx_-bM8Tg). This is hacking specific version of  the original "[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)" talk given to science students by Dr. Richard W. Hamming.
+This talk by Haroon Meer tackles this problem very well: [You and your research](https://www.youtube.com/watch?v=JoVx_-bM8Tg). This is a hacking specific version of  the original "[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)" talk given to science students by Dr. Richard W. Hamming.
 
 ### I want to do things but I end up doing nothing all day.
 
