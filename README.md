@@ -1,8 +1,8 @@
 ## Introduction
 
-Hacking is the art of using things in unintented ways. For example, if a software's trial is about to expire, you might be able to extend it by changing your computer's date to previous week. That's hacking.
+Hacking is the art of using things in unintended ways. For example, if a software's trial is about to expire, you might be able to extend it by changing your computer's date to the previous week. That's hacking.
 
-There's no 'one right way' to learn hacking, all ways are right ways. That's why, the purpose of this guide is to provide a direction rather than a roadmap. It may sound preachy/cringy in parts like the first sentence of this paragraph, sorry about that.
+There's no 'one right way' to learn hacking, all ways are right ways. That's why the purpose of this guide is to provide a direction rather than a roadmap. It may sound preachy/cringy in parts like the first sentence of this paragraph, sorry about that.
 
 ## Contents
 - [Origin of hacking](https://github.com/s0md3v/be-a-hacker#origin-of-hacking)
@@ -28,9 +28,9 @@ There's no 'one right way' to learn hacking, all ways are right ways. That's why
     - [I want to do things but I end doing nothing all day](https://github.com/s0md3v/be-a-hacker#i-want-to-do-things-but-i-end-up-doing-nothing-all-day)
 
 ## Origin of hacking
-I believe it is important to know your roots so let's talk about it without over analysing the origin.
+I believe it is important to know your roots so let's talk about them without overanalyzing the origin.
 
-In 1960s, telephone networks used a set of sounds to process phone calls. A group of people figured out how it all worked and managed to reproduce the 2600Hz frequency sounds being used by these networks. How did they do it? By blowing into a whistle that came free with cereal. This act was called **phreaking** and the people who did it were called **phreaks**.
+In the 1960s, telephone networks used a set of sounds to process phone calls. A group of people figured out how it all worked and managed to reproduce the 2600Hz frequency sounds being used by these networks. How did they do it? By blowing into a whistle that came free with cereal. This act was called **phreaking** and the people who did it were called **phreaks**.
 
 Denny Teresi, one of the phreaks said in an interview:
 > "It wasn't just to rip off the telephone company, it was the technical challenge - if we will be able to do it."
@@ -40,18 +40,18 @@ They did it because it was a fascinating problem for them to solve and they want
 ## Basic principles
 
 ### Learn how stuff works
-If you want to sell medicine, you will only need a place to store the medicine and hand over whatever a customer needs. On the other, if you want to create cures for diseases, you will need to know how the human body and everything works. Makes sense right? The same applies to hacking. If you want to get real good at hacking something and creating new techniques to do so, you must understand how it works.
+If you want to sell medicine, you will only need a place to store the medicine and hand over whatever a customer needs. On the other, if you want to create cures for diseases, you will need to know how the human body and everything works. Makes sense right? The same applies to hacking. If you want to get really good at hacking something and creating new techniques to do so, you must understand how it works.
 
 ### Sharing is cool
-If you have some information that you think might be helpful for other people, share it through social media, forums or blogs. It will benefit you in many ways:
+If you have some information that you think might be helpful for other people, share it through social media, forums, or blogs. It will benefit you in many ways:
 
 1. You will be appreciated which will motivate you and put a smile on your face.
-2. Any mistakes or improvement to be made in your content will be pointed out so the overall of quality of it will increase.
+2. Any mistakes or improvements to be made in your content will be pointed out so the overall quality of it will increase.
 3. You can only explain something if you understand it well which can be a self-check to see if you actually know enough about a topic.
-4. Exposure is a great thing. It will bring you oppurtunities and the power to influence people for good.
+4. Exposure is a great thing. It will bring you opportunities and the power to influence people for good.
 
 ### Don't be a 'rockstar'
-A rockstar is a person who might be skilled but isn't a very good person to work/talk with. They often have big ego, they like to work alone because they know* everything and they often look down on people. It doesn't essentially mean that they are bad people because this behavior can be both intentional and unintentional. The point is, they look bad doing so and more importantly, make others feel bad.\
+A rockstar is a person who might be skilled but isn't a very good person to work/talk with. They often have a big ego, they like to work alone because they know* everything and they often look down on people. It doesn't essentially mean that they are bad people because this behavior can be both intentional and unintentional. The point is, they look bad doing so and more importantly, make others feel bad.\
 To be honest, this is a common problem and I too once started to slip into this zone due to depression, it was not fun, that's why I have included it.
 
 tl;dr: Don't be some egoistic genius sitting in a room.
@@ -62,47 +62,47 @@ Be curious, experiment a lot, build cool shit, that's the entire point, that's h
 ## The roadmap
 The roadmap contains some good resources as well as some topics that you will to google and read about yourself. This is not simply a 'step-by-step guide' or a collection of resources.
 
-Read/watch stuff, note down the terms you don't understand, google them and learn about them from at least 3 different sources, again note down terms you don't understand and keep repeating the process.\
-Why at least 3 sources? Because information provided by 1 creator will be limited to what they know, getting it from 3 different creators will give you a better understanding of the subject from different perspectives.
+Read/watch stuff, note down the terms you don't understand, google them and learn about them from at least 3 different sources, again note down terms you don't understand and keep repeating the process.
+Why at least 3 sources? Because the information provided by 1 creator will be limited to what they know, getting it from 3 different creators will give you a better understanding of the subject from different perspectives.
 
-I will reference this methodolgy as 'recurisve learning' throughout the guide.
+I will reference this methodology as 'recursive learning' throughout the guide.
 
 ### Getting started
 
-Hacking has many fields e.g. reverse engineering, web hacking, car hacking etc. but there are some things that are helpful irrespective of the field so let's talk about them first.
+Hacking has many fields e.g. reverse engineering, web hacking, car hacking, etc. but some things are helpful irrespective of the field so let's talk about them first.
 
 #### Basics of Computer Science
 It will help you get a deeper understanding of the machine you will be using for hours every day as well as to gain a valuable perspective that I can't really explain in words.
 
-Remember, you just need to know the basics because this knowledge will keep being developed if you are curious by asking questions like "What happens when you delete a file? If they stay on device, how does space get freed? If they are really gone, how do recovery software recover them?"
+Remember, you just need to know the basics because this knowledge will keep being developed if you are curious by asking questions like "What happens when you delete a file? If they stay on the device, how does space get freed? If they are really gone, how do recovery software recover them?"
 
 **Resources:**
   - [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
-  - [Computerphile](https://www.youtube.com/user/Computerphile) (not beginner friendly)
+  - [Computerphile](https://www.youtube.com/user/Computerphile) (not beginner-friendly)
 
 #### Network basics
-To understand how internet (and other networks) work, it's essential because networks are everywhere.
+Understanding how the internet (and other networks) work, it's essential because networks are everywhere.
 
 **Topics to start recursive learning:**
 ```
 IP address, MAC address, port, client & server, dns, tcp, udp, proxy, tls/ssl, vpn
 ```
-**Resource:**
+**Resources:**
   - [TCP/IP protocol explained](https://www.youtube.com/watch?v=e5DEVa9eSN0)
   - [How SSL works?](https://howhttps.works)
 
 #### Get familiar with terminal
-You will spend a lot of time in the terminal whether it is running programs or accessing remote servers. You can use any operating system but I suggest Linux based operating systems simply because you can modify everything about it which is the essence of hacking. [Ubuntu](https://ubuntu.com/download/desktop) is great linux distribution for beginners.
+You will spend a lot of time in the terminal whether it is running programs or accessing remote servers. You can use any operating system but I suggest Linux-based operating systems simply because you can modify everything about it which is the essence of hacking. [Ubuntu](https://ubuntu.com/download/desktop) is a great linux distribution for beginners.
 
 #### Programming
 To understand how a given software works (makes it easy to hack it) and to create your own software for hacking and other tasks.
 
-There are a lot of programming languages but I will suggest you to start with start Python because it's easy and can do almost everything from creating a face detector to a website.
+There are a lot of programming languages but I will suggest you to start with Python because it's easy and can do almost everything from creating a face detector to a website.
 
 I have written an article about how to get started, [check it out](https://s0md3v.medium.com/learn-to-code-in-less-than-a-week-8f3da5e0ab29).
 
 #### Basic hacking concepts
-There are some concepts that you will find in every other cyber security related article and they come in handy in most fields.
+There are some concepts that you will find in every other cyber security-related article and they come in handy in most fields.
 
 **Topics to start recursive learning:**
 ```
@@ -111,7 +111,7 @@ phishing, ddos and dos attack, website crawling, encoding and encryption, passwo
 
 ## What's next?
 
-If you have gone through all the basics, especially the basic hacking concepts, you might have developed interest in some particular things already. If you haven't, I am mentioning some cyber security related fields here, google the ones that catch your eye:
+If you have gone through all the basics, especially the basic hacking concepts, you might have developed an interest in some particular things already. If you haven't, I am mentioning some cyber security-related fields here, google the ones that catch your eye:
 
 1. **Web hacking:** hacking websites
 2. **Physical security:** Breaking into buildings (includes lockpicking and stuff)
@@ -120,17 +120,17 @@ If you have gone through all the basics, especially the basic hacking concepts, 
 6. **OSINT:** Being an online detective
 7. **Car hacking:** Hacking into cars (duh)
 8. **Mobile hacking:** Hacking mobiles and mobile apps (duh x2)
-9. **IoT hacking:** Hacking internet connected devices e.g. cameras or smart doorbells
+9. **IoT hacking:** Hacking internet-connected devices e.g. cameras or smart doorbells
 10. **Social engineering:** Manipulating people to extract information or hack their systems
 
-Once you find what interests you the most, spend one day doing research about how to get started and what are the best resources to do so. Next day, just get started and never stop learning, everything will fall into place.
+Once you find what interests you the most, spend one-day doing research about how to get started and what are the best resources to do so. The next day, just get started and never stop learning, everything will fall into place.
 
 Also, do these things:
 
 - Start a blog, you can start by compiling all the knowledge about one topic from different sources into one article. Give credit tho.
 - Start writing tools (they don't need to be open source)
 - Become a part of communities, I suggest [Many Hats Club](https://discord.gg/infosec) on discord and following relevant people on Twitter.
-- When you have start getting a grip of your favorite subject, watch talks related to it. An archive can be found on [infocon.org](https://infocon.org).
+- When you have start getting a grip on your favorite subject, watch talks related to it. An archive can be found on [infocon.org](https://infocon.org).
 
 ## FAQ
 
@@ -152,10 +152,10 @@ or, do you just feel so? It's often just a feeling and it's actually an indicato
 Divide your day into 3 parts:
 
 1. **Work:** Do stuff that you already know just for practice or to earn money with it.
-2. **Learn:** Learn new things. This will give you a sense of progress which is very imporant to make sure your life doesn't feel repititive.
+2. **Learn:** Learn new things. This will give you a sense of progress which is very imporant to make sure your life doesn't feel repetitive.
 3. **Have fun:** Most important, have fun. Go for a walk, watch a TV show or play games. Whatever works for you.
 
-Burouts happen when you either work for too long or work on the same thing for long. Making sure learn new things and have fun every day will keep burnouts away.
+Burnouts happen when you either work for too long or work on the same thing for long. Making sure to learn new things and having fun every day will keep burnouts away.
 
 ### I want to do great and innovative things.
 This talk by Haroon Meer tackles this problem very well: [You and your research](https://www.youtube.com/watch?v=JoVx_-bM8Tg). This is a hacking specific version of  the original "[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)" talk given to science students by Dr. Richard W. Hamming.
