@@ -13,7 +13,6 @@ If there's something you think should be added/improved, please [create an issue
     - [Sharing is cool](https://github.com/s0md3v/be-a-hacker#sharing-is-cool)
     - [Don't be a rockstar](https://github.com/s0md3v/be-a-hacker#dont-be-a-rockstar)
     - [Do cool shit](https://github.com/s0md3v/be-a-hacker#do-cool-shit)
-- [How do I use this roadmap?](https://github.com/s0md3v/be-a-hacker#how-to-use-this-roadmap)
 - [The roadmap](https://github.com/s0md3v/be-a-hacker#the-roadmap)
     - [Getting started](https://github.com/s0md3v/be-a-hacker#getting-started)
         - [Basics of computer science](https://github.com/s0md3v/be-a-hacker#basics-of-computer-science)
