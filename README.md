@@ -2,7 +2,7 @@
 
 Hacking is the art of using things in unintented ways. For example, if a software's trial is about to expire, you might be able to extend it by changing your computer's date to previous week. That's hacking.
 
-There's no 'one right way' to learn hacking, all ways are right ways. That's why, the purpose of this course is to provide a direction rather than a roadmap. It may sound preachy/cringy in parts like the first sentence of this paragraph, sorry about that.
+There's no 'one right way' to learn hacking, all ways are right ways. That's why, the purpose of this guide is to provide a direction rather than a roadmap. It may sound preachy/cringy in parts like the first sentence of this paragraph, sorry about that.
 
 ## Origin of hacking
 I believe it is important to know your roots so let's talk about it without over analysing the origin.
@@ -12,9 +12,9 @@ In 1960s, telephone networks used a set of sounds to process phone calls. A grou
 Denny Teresi, one of the phreaks said in an interview:
 > "It wasn't just to rip off the telephone company, it was the technical challenge - if we will be able to do it."
 
-They did it because it was a fascinating problem for them to solve and they wanted to see if they could solve it. This is exactly what hacking culture is, even today. We will get back to this later in the course.
+They did it because it was a fascinating problem for them to solve and they wanted to see if they could solve it. This is exactly what hacking culture is, even today.
 
-## Basic ideas
+## Basic principles
 
 ### Learn how stuff works
 If you want to sell medicine, you will only need a place to store the medicine and hand over whatever a customer needs. On the other, if you want to create cures for diseases, you will need to know how the human body and everything works. Makes sense right? The same applies to hacking. If you want to get real good at hacking something and creating new techniques to do so, you must understand how it works.
@@ -42,10 +42,10 @@ The roadmap contains some good resources as well as some topics that you will to
 Read/watch stuff, note down the terms you don't understand, google them and learn about them from at least 3 different sources, again note down terms you don't understand and keep repeating the process.\
 Why at least 3 sources? Because information provided by 1 creator will be limited to what they know, getting it from 3 different creators will give you a better understanding of the subject from different perspectives.
 
-I will reference this methodolgy as 'recurisve learning' throughout the course.
+I will reference this methodolgy as 'recurisve learning' throughout the guide.
 
 ## The roadmap
-I will guide you through the basics, tell you how to proceed next and from there on, you will create your own path.
+It will guide you through the basics, tell you how to proceed next and from there on, you will create your own path.
 
 ### Getting started
 
@@ -84,6 +84,28 @@ There are some concepts that you will find in every other cyber security related
 phishing, password cracking, website crawling, man in the middle attack, 
 ```
 
+## What's next?
+
+If you have gone through all the basics, especially the basic hacking concepts, you might have developed interest in some particular things already. If you haven't, I am mentioning some cyber security related fields here, google the ones that catch your eye:
+
+1. **Web hacking:** hacking websites
+2. **Physical security:** Breaking into buildings (includes lockpicking and stuff)
+3. **Malware analysis:** Analysing malware and writing it
+5. **Digital forensics:** Investigating digital crime scenes e.g. a hacked computer
+6. **OSINT:** Being an online detective
+7. **Car hacking:** Hacking into cars (duh)
+8. **Mobile hacking:** Hacking mobiles and mobile apps (duh x2)
+9. **IoT hacking:** Hacking internet connected devices e.g. cameras or smart doorbells
+10. **Social engineering:** Manipulating people to extract information or hack their systems
+
+Once you find what interests you the most, spend one day doing research about how to get started and what are the best resources to do so. Next day, just get started and never stop learning, everything will fall into place.
+
+Also, do these 3 things:
+
+- Start a blog
+- Start writing tools (they don't need to be open source)
+- Become a part of communities, I suggest [Many Hats Club](https://discord.gg/infosec) on discord and following relevant people on Twitter.
+
 ## FAQ
 
 ### How do I earn money?
@@ -99,6 +121,18 @@ Okay, how did you come to this conclusion? Did you get this feedback from multip
 or, do you just feel so? It's often just a feeling and it's actually an indicator that you are doing good. Dunken-Kruger effect explains it well:
 
 <img alt="dunken-kruger effect" src="assets/dunken-kruger-effect.png" height=300/>
+
+### How to avoid burnouts?
+Divide your day into 3 parts:
+
+1. Do: Do stuff that you already know to practice or earn money.
+2. Learn: Learn new things.
+3. Fun: Have fun.
+
+Burouts happen when you either work for too long or work on the same thing for long. Making sure learn new things and have fun every day will keep burnouts away.
+
+### I want to do great and innovative things.
+This talk by Haroon Meer tackles this problem very well: https://www.youtube.com/watch?v=JoVx_-bM8Tg
 
 ### I want to do things but I end up doing nothing all day.
 
@@ -124,15 +158,3 @@ If it's the first one where you already start feeling good after getting things 
 
 Remember, at least 1 task every day, never zero otherwise you will fall back to where you started, doing nothing. Don't be scared, if you are in bed, looking at memes at 11 PM and you haven't done anything all day, do a pushup and tick it off the list.\
 Easy, right? Start, now.
-
-### How to avoid burnouts?
-Divide your day into 3 parts:
-
-1. Do: Do stuff that you already know to practice or earn money.
-2. Learn: Learn new things.
-3. Fun: Have fun.
-
-Burouts happen when you either work for too long or work on the same thing for long. Making sure learn new things and have fun every day will keep burnouts away.
-
-### I want to do great and innovative things.
-This talk by Haroon Meer tackles this problem very well: https://www.youtube.com/watch?v=JoVx_-bM8Tg
