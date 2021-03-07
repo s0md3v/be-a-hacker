@@ -60,7 +60,7 @@ tl;dr: Don't be some egoistic genius sitting in a room.
 Be curious, experiment a lot, build cool shit, that's the entire point, that's how it all started. If you spend your life using techniques and tools developed by other people, what's the point of choosing a cool path like this?
 
 ## The roadmap
-The roadmap contains some good resources as well as some topics that you will to google and read about yourself. This is not simply a 'step-by-step guide' or a collection of resources.
+The roadmap contains some good resources as well as some topics that you will need to google and read about yourself. This is not simply a 'step-by-step guide' or a collection of resources.
 
 Read/watch stuff, note down the terms you don't understand, google them and learn about them from at least 3 different sources, again note down terms you don't understand and keep repeating the process.
 Why at least 3 sources? Because the information provided by 1 creator will be limited to what they know, getting it from 3 different creators will give you a better understanding of the subject from different perspectives.
