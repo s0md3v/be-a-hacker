@@ -4,6 +4,28 @@ Hacking is the art of using things in unintented ways. For example, if a softwar
 
 There's no 'one right way' to learn hacking, all ways are right ways. That's why, the purpose of this guide is to provide a direction rather than a roadmap. It may sound preachy/cringy in parts like the first sentence of this paragraph, sorry about that.
 
+## Contents
+- [Origin of hacking](https://github.com/s0md3v/be-a-hacker#origin-of-hacking)
+- [Basic principles](https://github.com/s0md3v/be-a-hacker#basic-principles)
+    - [Learn how stuff works](https://github.com/s0md3v/be-a-hacker#learn-how-stuff-works)
+    - [Sharing is cool](https://github.com/s0md3v/be-a-hacker#sharing-is-cool)
+    - [Don't be a rockstar](https://github.com/s0md3v/be-a-hacker#dont-be-a-rockstar)
+    - [Do cool shit](https://github.com/s0md3v/be-a-hacker#do-cool-shit)
+- [How do I use this roadmap?](https://github.com/s0md3v/be-a-hacker#how-to-use-this-roadmap)
+- [The roadmap](https://github.com/s0md3v/be-a-hacker#the-roadmap)
+    - [Getting started](https://github.com/s0md3v/be-a-hacker#getting-started)
+          - [Basics of computer science](https://github.com/s0md3v/be-a-hacker#basics-of-computer-science)
+          - [Network basics](https://github.com/s0md3v/be-a-hacker#network-basics)
+          - [Programming](https://github.com/s0md3v/be-a-hacker#programming)
+          - [Basic hacking concepts](https://github.com/s0md3v/be-a-hacker#basic-hacking-concepts)
+    - [What's next?](https://github.com/s0md3v/be-a-hacker#whats-next)
+- [FAQ](https://github.com/s0md3v/be-a-hacker#faq)
+    - [How do I earn money?](https://github.com/s0md3v/be-a-hacker#how-do-i-earn-money)
+    - [I know nothing, I have no skills.](https://github.com/s0md3v/be-a-hacker#i-think-i-know-nothing-i-have-no-skills)
+    - [How to avoid burnouts?](https://github.com/s0md3v/be-a-hacker#how-to-avoid-burnouts)
+    - [I want to do great and innovative things.](https://github.com/s0md3v/be-a-hacker#i-want-to-do-great-and-innovative-things)
+    - [I want to do things but I end doing nothing all day](https://github.com/s0md3v/be-a-hacker#i-want-to-do-things-but-i-end-up-doing-nothing-all-day)
+
 ## Origin of hacking
 I believe it is important to know your roots so let's talk about it without over analysing the origin.
 
