@@ -14,10 +14,10 @@ There's no 'one right way' to learn hacking, all ways are right ways. That's why
 - [How do I use this roadmap?](https://github.com/s0md3v/be-a-hacker#how-to-use-this-roadmap)
 - [The roadmap](https://github.com/s0md3v/be-a-hacker#the-roadmap)
     - [Getting started](https://github.com/s0md3v/be-a-hacker#getting-started)
-          - [Basics of computer science](https://github.com/s0md3v/be-a-hacker#basics-of-computer-science)
-          - [Network basics](https://github.com/s0md3v/be-a-hacker#network-basics)
-          - [Programming](https://github.com/s0md3v/be-a-hacker#programming)
-          - [Basic hacking concepts](https://github.com/s0md3v/be-a-hacker#basic-hacking-concepts)
+        - [Basics of computer science](https://github.com/s0md3v/be-a-hacker#basics-of-computer-science)
+        - [Network basics](https://github.com/s0md3v/be-a-hacker#network-basics)
+        - [Programming](https://github.com/s0md3v/be-a-hacker#programming)
+        - [Basic hacking concepts](https://github.com/s0md3v/be-a-hacker#basic-hacking-concepts)
     - [What's next?](https://github.com/s0md3v/be-a-hacker#whats-next)
 - [FAQ](https://github.com/s0md3v/be-a-hacker#faq)
     - [How do I earn money?](https://github.com/s0md3v/be-a-hacker#how-do-i-earn-money)
@@ -29,7 +29,7 @@ There's no 'one right way' to learn hacking, all ways are right ways. That's why
 ## Origin of hacking
 I believe it is important to know your roots so let's talk about it without over analysing the origin.
 
-In 1960s, telephone networks used a set of sounds to process phone calls. A group of people figured out how it all worked and managed to reproduce the 2600Hz frequency sounds being used by these networks. How did they do it? By blowing into a whistle that came free with cereal. This was called **phreaking** and the people who did it were called **phreaks**.
+In 1960s, telephone networks used a set of sounds to process phone calls. A group of people figured out how it all worked and managed to reproduce the 2600Hz frequency sounds being used by these networks. How did they do it? By blowing into a whistle that came free with cereal. This act was called **phreaking** and the people who did it were called **phreaks**.
 
 Denny Teresi, one of the phreaks said in an interview:
 > "It wasn't just to rip off the telephone company, it was the technical challenge - if we will be able to do it."
@@ -58,23 +58,22 @@ tl;dr: Don't be some egoistic genius sitting in a room.
 ### Do cool shit
 Be curious, experiment a lot, build cool shit, that's the entire point, that's how it all started. If you spend your life using techniques and tools developed by other people, what's the point of choosing a cool path like this?
 
-## How to use this roadmap?
-The roadmap contains some good resources as well as some topics that you will to google and read about yourself.
+## The roadmap
+The roadmap contains some good resources as well as some topics that you will to google and read about yourself. This is not simply a 'step-by-step guide' or a collection of resources.
 
 Read/watch stuff, note down the terms you don't understand, google them and learn about them from at least 3 different sources, again note down terms you don't understand and keep repeating the process.\
 Why at least 3 sources? Because information provided by 1 creator will be limited to what they know, getting it from 3 different creators will give you a better understanding of the subject from different perspectives.
 
 I will reference this methodolgy as 'recurisve learning' throughout the guide.
 
-## The roadmap
-It will guide you through the basics, tell you how to proceed next and from there on, you will create your own path.
-
 ### Getting started
 
 Hacking has many fields e.g. reverse engineering, web hacking, car hacking etc. but there are some things that are helpful irrespective of the field so let's talk about them first.
 
 #### Basics of Computer Science
-It will help you get a deeper understanding of the machine you will be using for hours every day as well as gain a valuable perspective that I can't really explain in words.
+It will help you get a deeper understanding of the machine you will be using for hours every day as well as to gain a valuable perspective that I can't really explain in words.
+
+Remember, you just need to know the basics because this knowledge will keep being developed if you are curious by asking questions like "What happens when you delete a file? If they stay on device, how does space get freed? If they are really gone, how do recovery software recover them?"
 
 **Resources:**
   - [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
@@ -85,11 +84,14 @@ To understand how internet (and other networks) work, it's essential because net
 
 **Topics to start recursive learning:**
 ```
-IP address, MAC address, port, proxy, client & server, tcp, udp, ssl
+IP address, MAC address, port, client & server, dns, tcp, udp, proxy, tls/ssl, vpn
 ```
 **Resource:**
   - [TCP/IP protocol explained](https://www.youtube.com/watch?v=e5DEVa9eSN0)
   - [How SSL works?](https://howhttps.works)
+
+#### Get familiar with terminals
+You will spend a lot of time in the terminal whether it is running programs or accessing remote servers. You can use any operating system but I suggest Linux based operating systems simply because you can modify everything about it which is the essence of hacking. [Ubuntu](https://ubuntu.com/download/desktop) is great linux distribution for beginners.
 
 #### Programming
 To understand how a given software works (makes it easy to hack it) and to create your own software for hacking and other tasks.
@@ -98,12 +100,12 @@ There are a lot of programming languages but I will suggest you to start with st
 
 I have written an article about how to get started, [check it out](https://s0md3v.medium.com/learn-to-code-in-less-than-a-week-8f3da5e0ab29).
 
-### Basic hacking concepts
+#### Basic hacking concepts
 There are some concepts that you will find in every other cyber security related article and they come in handy in most fields.
 
 **Topics to start recursive learning:**
 ```
-phishing, password cracking, website crawling, man in the middle attack, 
+phishing, ddos and dos attack, website crawling, encoding and encryption, password cracking, login bruteforcing, man in the middle attack
 ```
 
 ## What's next?
@@ -122,17 +124,18 @@ If you have gone through all the basics, especially the basic hacking concepts, 
 
 Once you find what interests you the most, spend one day doing research about how to get started and what are the best resources to do so. Next day, just get started and never stop learning, everything will fall into place.
 
-Also, do these 3 things:
+Also, do these things:
 
-- Start a blog
+- Start a blog, you can start by compiling all the knowledge about one topic from different sources into one article. Give credit tho.
 - Start writing tools (they don't need to be open source)
 - Become a part of communities, I suggest [Many Hats Club](https://discord.gg/infosec) on discord and following relevant people on Twitter.
+- When you have start getting a grip of your favorite subject, watch talks related to it. An archive can be found on [infocon.org](https://infocon.org).
 
 ## FAQ
 
 ### How do I earn money?
 **Do you have skills?**
-Do bug bounties or submit vulnerabilities to platforms like Zerodium.
+Do bug bounties or submit vulnerabilities to platforms like [Zerodium](https://zerodium.com/).
 
 **Do you have skills and some quality public work?**
 Do freelancing or start applying for jobs.
@@ -142,19 +145,19 @@ Okay, how did you come to this conclusion? Did you get this feedback from multip
 
 or, do you just feel so? It's often just a feeling and it's actually an indicator that you are doing good. Dunken-Kruger effect explains it well:
 
-<img alt="dunken-kruger effect" src="assets/dunken-kruger-effect.png" height=300/>
+<img alt="dunken-kruger effect" src="assets/dunken-kruger-effect.png" height=400/>
 
 ### How to avoid burnouts?
 Divide your day into 3 parts:
 
-1. Do: Do stuff that you already know to practice or earn money.
-2. Learn: Learn new things.
-3. Fun: Have fun.
+1. **Work:** Do stuff that you already know just for practice or to earn money with it.
+2. **Learn:** Learn new things. This will give you a sense of progress which is very imporant to make sure your life doesn't feel repititive.
+3. **Have fun:** Most important, have fun. Go for a walk, watch a TV show or play games. Whatever works for you.
 
 Burouts happen when you either work for too long or work on the same thing for long. Making sure learn new things and have fun every day will keep burnouts away.
 
 ### I want to do great and innovative things.
-This talk by Haroon Meer tackles this problem very well: https://www.youtube.com/watch?v=JoVx_-bM8Tg
+This talk by Haroon Meer tackles this problem very well: [You and your research](https://www.youtube.com/watch?v=JoVx_-bM8Tg). This is hacking specific version of  the original "[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)" talk given to science students by Dr. Richard W. Hamming.
 
 ### I want to do things but I end up doing nothing all day.
 
