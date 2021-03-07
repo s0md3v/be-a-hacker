@@ -1,87 +1,138 @@
-### Introduction
-This repository aims to maintain the best beginner friendly resources for various subjects to help people learn at home. All the resources mentioned here are supposed to give you at least enough knowledge to help you figure out how to proceed in order to master that subject.
+## Introduction
 
-#### Want to add something?
-If you know of a good resource for a subject, please [open an issue](https://github.com/s0md3v/learn-at-home/issues) or a [pull request](https://github.com/s0md3v/learn-at-home/pulls) and the whole internet will be grateful to you.
+Hacking is the art of using things in unintented ways. For example, if a software's trial is about to expire, you might be able to extend it by changing your computer's date to previous week. That's hacking.
 
-## Index
-- [Computer Science](https://github.com/s0md3v/learn-at-home#computer-science) - Learn how computers work!
-- [Cryptography](https://github.com/s0md3v/learn-at-home#computer-science) - Learn to solve hidden secret codes!
-- [Digital Forensics](https://github.com/s0md3v/learn-at-home#digital-forensics) - Become an investigator of computers!
-- [General Resources](https://github.com/s0md3v/learn-at-home#general-resources) - Great learning resources!
-  - [Books](https://github.com/s0md3v/learn-at-home#books)
-  - [YouTube Channels](https://github.com/s0md3v/learn-at-home#youtue-channels)
-- [Graphics](https://github.com/s0md3v/learn-at-home#graphics) - Learn photo editing and all that!
-- [Information Security](https://github.com/s0md3v/learn-at-home#information-security) - Hack & protect things!
-  - [Android Security](https://github.com/s0md3v/learn-at-home#android-security) - Hack android!
-  - [IoT Security](https://github.com/s0md3v/learn-at-home#iot-security) - Hack cameras, smart TVs and all that!
-  - [Web Security](https://github.com/s0md3v/learn-at-home#web-security) - Hack websites!
-- [Malware Analysis](https://github.com/s0md3v/learn-at-home#malware-analysis) - Analyse computer *viruses*!
-- [OSINT](https://github.com/s0md3v/learn-at-home#osint) - Become an investigator on the internet!
-- [Programming](https://github.com/s0md3v/learn-at-home#programming) - Learn how to create softwares!
-- [Reverse Engineering](https://github.com/s0md3v/learn-at-home#reverse-engineering) - Learn how to break down softwares!
+There's no 'one right way' to learn hacking, all ways are right ways. That's why, the purpose of this course is to provide a direction rather than a roadmap. It may sound preachy/cringy in parts like the first sentence of this paragraph, sorry about that.
 
-### Computer Science
-  - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
-  - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
-### Cryptography
-  - :mortar_board: [Cryptography by Stanford University](https://www.coursera.org/learn/crypto) [Coursera]
-  - :mortar_board: [Cryptography Problems for CTFs](https://cryptohack.org/) [Coursera]
-  - :book: [Crypto101](https://www.crypto101.io)
-  - :book: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
-### Digital Forensics
-  - [Computer Forensics subreddit wiki](https://www.reddit.com/r/computerforensics/wiki/faq#wiki_forensics.3A_where.2Fhow_do_i_begin.3F)
-### General Resources
-#### Books
-  - :book: *Godel, Escher, Bach* by Douglas Hofstadter
-#### YouTube channels
-  - :tv: [Art of The Problem](https://www.youtube.com/user/ArtOfTheProblem)
-  - :tv: [Crash Course](https://www.youtube.com/user/crashcourse)
-### Graphics
-  - :book: Photoshop for Dummies
-  - :tv: [Piximperfect](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
-### Information Security
-  - :information_source: [infocon.org](https://infocon.org) - Archive of various security related cons and podcasts
-#### Android Security
-  - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
-  - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
-  - :globe_with_meridians: [Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
-#### IoT Security
-  - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
-#### Web Security
-  - :book: The Web Application Hacker's Handbook
-  - :mortar_board: [Web Security course](https://web.stanford.edu/class/cs253/) by Stanford University
-  - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
-  - :mortar_board: [WebSecurity Academy](https://portswigger.net/web-security) by Portswigger
-  - :mortar_board: [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university) by Bugcrowd
-### Malware Analysis
-  - :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati
-  - :globe_with_meridians: [Reverse engineering malware](https://malwareunicorn.org/#/workshops) by MalwareUnicorn 
-### OSINT
-  - :book: *Open Source Intelligence Techniques* by Michael Bazzell
-  - :globe_with_meridians: [How To Guides](https://www.bellingcat.com/category/resources/how-tos/) by Bellingcat
-  - :tv: [10 minute tips](https://osintcurio.us/10-minute-tips/) by Osintcurious
-  - :globe_with_meridians: [Crypto weekly](https://us14.campaign-archive.com/home/?u=c435f53a5568f7951404c8a38&id=7f8ca9c380) by Bellingcat
-  - :globe_with_meridians: [OSINT weekly](https://medium.com/week-in-osint) by Sector035
-#### CTF
-  - :globe_with_meridians: [OSINT quiz](https://twitter.com/Sector035/status/1211038518635614208) by Sector035
-  - :globe_with_meridians: [Cyber Detective CTF](https://ctf.cybersoc.wales/) by Cardiff University
-  - :globe_with_meridians: [Hacker101 CTF](https://ctf.hacker101.com/) by Hackerone
-### Programming
-  - :book: [Free programming books](https://books.goalkicker.com/)
-  - :globe_with_meridians: [freecodecamp.org](freecodecamp.org/) - Learn to code with open source codebase and curriculum
-  - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
-  - :mortar_board: [codecademy.com](https://www.codecademy.com/catalog/subject/all) - Freemium interactive courses
-#### Go
-  - :globe_with_meridians: [gobyexample.com](https://gobyexample.com)
-#### Python
-  - :book: *Learn Python the hard way* by Zed Shaw
-  - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
-  - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide
-#### Ruby
-  - :globe_with_meridians: [The Odin Project](https://www.theodinproject.com/courses/ruby-programming) - A step by step guide with a lot of projects.
-#### JavaScript
-- :globe_with_meridians: [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - A step by step guide
-### Reverse Engineering
-  - :book: [Reverse engineering for beginners](https://beginners.re/)
-  - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
+## Origin of hacking
+I believe it is important to know your roots so let's talk about it without over analysing the origin.
+
+In 1960s, telephone networks used a set of sounds to process phone calls. A group of people figured out how it all worked and managed to reproduce the 2600Hz frequency sounds being used by these networks. How did they do it? By blowing into a whistle that came free with cereal. This was called **phreaking** and the people who did it were called **phreaks**.
+
+Denny Teresi, one of the phreaks said in an interview:
+> "It wasn't just to rip off the telephone company, it was the technical challenge - if we will be able to do it."
+
+They did it because it was a fascinating problem for them to solve and they wanted to see if they could solve it. This is exactly what hacking culture is, even today. We will get back to this later in the course.
+
+## Basic ideas
+
+### Learn how stuff works
+If you want to sell medicine, you will only need a place to store the medicine and hand over whatever a customer needs. On the other, if you want to create cures for diseases, you will need to know how the human body and everything works. Makes sense right? The same applies to hacking. If you want to get real good at hacking something and creating new techniques to do so, you must understand how it works.
+
+### Sharing is cool
+If you have some information that you think might be helpful for other people, share it through social media, forums or blogs. It will benefit you in many ways:
+
+1. You will be appreciated which will motivate you and put a smile on your face.
+2. Any mistakes or improvement to be made in your content will be pointed out so the overall of quality of it will increase.
+3. You can only explain something if you understand it well which can be a self-check to see if you actually know enough about a topic.
+4. Exposure is a great thing. It will bring you oppurtunities and the power to influence people for good.
+
+### Don't be a 'rockstar'
+A rockstar is a person who might be skilled but isn't a very good person to work/talk with. They often have big ego, they like to work alone because they know* everything and they often look down on people. It doesn't essentially mean that they are bad people because this behavior can be both intentional and unintentional. The point is, they look bad doing so and more importantly, make others feel bad.\
+To be honest, this is a common problem and I too once started to slip into this zone due to depression, it was not fun, that's why I have included it.
+
+tl;dr: Don't be some egoistic genius sitting in a room.
+
+### Do cool shit
+Be curious, experiment a lot, build cool shit, that's the entire point, that's how it all started. If you spend your life using techniques and tools developed by other people, what's the point of choosing a cool path like this?
+
+## How to use this roadmap?
+The roadmap contains some good resources as well as some topics that you will to google and read about yourself.
+
+Read/watch stuff, note down the terms you don't understand, google them and learn about them from at least 3 different sources, again note down terms you don't understand and keep repeating the process.\
+Why at least 3 sources? Because information provided by 1 creator will be limited to what they know, getting it from 3 different creators will give you a better understanding of the subject from different perspectives.
+
+I will reference this methodolgy as 'recurisve learning' throughout the course.
+
+## The roadmap
+I will guide you through the basics, tell you how to proceed next and from there on, you will create your own path.
+
+### Getting started
+
+Hacking has many fields e.g. reverse engineering, web hacking, car hacking etc. but there are some things that are helpful irrespective of the field so let's talk about them first.
+
+#### Basics of Computer Science
+It will help you get a deeper understanding of the machine you will be using for hours every day as well as gain a valuable perspective that I can't really explain in words.
+
+**Resources:**
+  - [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
+  - [Computerphile](https://www.youtube.com/user/Computerphile) (not beginner friendly)
+
+#### Network basics
+To understand how internet (and other networks) work, it's essential because networks are everywhere.
+
+**Topics to start recursive learning:**
+```
+IP address, MAC address, port, proxy, client & server, tcp, udp, ssl
+```
+**Resource:**
+  - [TCP/IP protocol explained](https://www.youtube.com/watch?v=e5DEVa9eSN0)
+  - [How SSL works?](https://howhttps.works)
+
+#### Programming
+To understand how a given software works (makes it easy to hack it) and to create your own software for hacking and other tasks.
+
+There are a lot of programming languages but I will suggest you to start with start Python because it's easy and can do almost everything from creating a face detector to a website.
+
+I have written an article about how to get started, [check it out](https://s0md3v.medium.com/learn-to-code-in-less-than-a-week-8f3da5e0ab29).
+
+### Basic hacking concepts
+There are some concepts that you will find in every other cyber security related article and they come in handy in most fields.
+
+**Topics to start recursive learning:**
+```
+phishing, password cracking, website crawling, man in the middle attack, 
+```
+
+## FAQ
+
+### How do I earn money?
+**Do you have skills?**
+Do bug bounties or submit vulnerabilities to platforms like Zerodium.
+
+**Do you have skills and some quality public work?**
+Do freelancing or start applying for jobs.
+
+### I think I know nothing, I have no skills.
+Okay, how did you come to this conclusion? Did you get this feedback from multiple recent interviews? Do you just don't understand a single word when two 'experts' of your field are talking?
+
+or, do you just feel so? It's often just a feeling and it's actually an indicator that you are doing good. Dunken-Kruger effect explains it well:
+
+<img alt="dunken-kruger effect" src="assets/dunken-kruger-effect.png" height=300/>
+
+### I want to do things but I end up doing nothing all day.
+
+Are you stuck in a phase where you know you have important things to do but you can't get them done? Never having enough motivation to start them, losing focus after a short time or just doing nothing all day and then feeling bad about it?
+
+Let your mind know how good it feels to get things done by doing the bare-minimum. Create a to-do list with these 4 items:
+
+1. Make your bed
+2. Brush your teeth
+3. Read an article
+4. Do pushups, at least 1.
+
+All done? Cool, feel free to waste your time now, you have earned it.  Following this to-do list will make you feel one of these two things:
+
+1. Sense of achievement that you have been lacking before. Good for you.
+2. Feeling like a loser, thinking that this isn't what you should be doing, there are more important things you need to get done.
+
+If it's the second, break down your 'important things' into smaller tasks and make a to-do list out of them. Here's a template I made for a friend who wants to write a research paper for their PhD:
+
+![phd-template](assets/phd-template.png)
+
+If it's the first one where you already start feeling good after getting things done, gradually increase the number of articles and push-ups, extend the list of activities. Soon, you will feel like taking on the important task, break it down as I mentioned earlier and start.
+
+Remember, at least 1 task every day, never zero otherwise you will fall back to where you started, doing nothing. Don't be scared, if you are in bed, looking at memes at 11 PM and you haven't done anything all day, do a pushup and tick it off the list.\
+Easy, right? Start, now.
+
+### How to avoid burnouts?
+Divide your day into 3 parts:
+
+1. Do: Do stuff that you already know to practice or earn money.
+2. Learn: Learn new things.
+3. Fun: Have fun.
+
+Burouts happen when you either work for too long or work on the same thing for long. Making sure learn new things and have fun every day will keep burnouts away.
+
+### I want to do great and innovative things.
+This talk by Haroon Meer tackles this problem very well: https://www.youtube.com/watch?v=JoVx_-bM8Tg
