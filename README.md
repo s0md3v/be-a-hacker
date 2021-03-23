@@ -89,6 +89,7 @@ Understanding how the internet (and other networks) work, it's essential because
 IP address, MAC address, port, client & server, dns, tcp, udp, proxy, tls/ssl, vpn
 ```
 **Resources:**
+  - [Network Fundamentals](https://www.youtube.com/watch?v=9uebakqWlB0)
   - [TCP/IP protocol explained](https://www.youtube.com/watch?v=e5DEVa9eSN0)
   - [How SSL works?](https://howhttps.works)
 
