@@ -161,6 +161,13 @@ Divide your day into 3 parts:
 
 Burnouts happen when you either work for too long or work on the same thing for long. Making sure to learn new things and having fun every day will keep burnouts away.
 
+### How do I become social and confident?
+The thing that stops us from getting out of our comfort zone is that we are afraid that we will end up making a fool of ourselves. If this is you, read along.
+
+We often end up thinking things like, what if the presentation I have worked so hard for, doesn't go right? What if I go and talk to this person and they don't like me or I mess up my words? What if I upload my real picutre on the internet and everyone finds me ugly?\
+The truth is, nobody cares. People trip while walking all the time, forget important things, tweet things that end up destroying their career, mess up their words etc. Why do you think you are so important that people will make a big deal out of your mistakes and remember it for months? Everybody is a clown, so are you and no matter how hard you try, you will mess up eventually because its what normal people do.\
+Make peace wtih it and do it as early as possible. You don't want to miss out on oppurtunities because you didn't realize you are a clown just like the rest of the 8 billion people.
+
 ### I want to do great and innovative things.
 This talk by Haroon Meer tackles this problem very well: [You and your research](https://www.youtube.com/watch?v=JoVx_-bM8Tg). This is a hacking specific version of  the original "[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)" talk given to science students by Dr. Richard W. Hamming.
 
