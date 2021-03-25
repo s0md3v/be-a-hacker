@@ -26,6 +26,7 @@ If there's something you think should be added/improved, please [create an issue
     - [I know nothing, I have no skills.](https://github.com/s0md3v/be-a-hacker#i-think-i-know-nothing-i-have-no-skills)
     - [How to avoid burnouts?](https://github.com/s0md3v/be-a-hacker#how-to-avoid-burnouts)
     - [I want to do great and innovative things.](https://github.com/s0md3v/be-a-hacker#i-want-to-do-great-and-innovative-things)
+    - [How do I become social and confident?](https://github.com/s0md3v/be-a-hacker#how-do-i-become-social-and-confident)
     - [I want to do things but I end doing nothing all day](https://github.com/s0md3v/be-a-hacker#i-want-to-do-things-but-i-end-up-doing-nothing-all-day)
 
 ## Origin of hacking
