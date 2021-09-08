@@ -132,7 +132,7 @@ Also, do these things:
 
 - Start a blog, you can start by compiling all the knowledge about one topic from different sources into one article. Give credit tho.
 - Start writing tools (they don't need to be open source)
-- Become a part of communities, I suggest [Many Hats Club](https://discord.gg/infosec) on discord and following relevant people on Twitter.
+- Become a part of communities
 - When you have start getting a grip on your favorite subject, watch talks related to it. An archive can be found on [infocon.org](https://infocon.org).
 
 ## FAQ
