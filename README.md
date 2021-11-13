@@ -172,6 +172,8 @@ Make peace with it and do it as early as possible. You don't want to miss out on
 ### I want to do great and innovative things.
 This talk by Haroon Meer tackles this problem very well: [You and your research](https://www.youtube.com/watch?v=JoVx_-bM8Tg). This is a hacking specific version of  the original "[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)" talk given to science students by Dr. Richard W. Hamming.
 
+You may also want to read my blog about [Creativity, Self-Doubt and Doing Remarkable Work](https://s0md3v.github.io/blog/creativity-and-self-doubt).
+
 ### I want to do things but I end up doing nothing all day.
 
 Are you stuck in a phase where you know you have important things to do but you can't get them done? Never having enough motivation to start them, losing focus after a short time or just doing nothing all day and then feeling bad about it?
