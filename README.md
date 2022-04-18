@@ -146,6 +146,13 @@ Do bug bounties or submit vulnerabilities to platforms like [Zerodium](https://z
 **Do you have skills and some quality public work?**
 Do freelancing or start applying for jobs.
 
+### I am in school/college, how do I manage my time?
+> Note: These instructions are only for those who have made up their mind about working in tech.
+
+If you are in school, learn science and maths well. This knowledge is vital. Don't care too much about grades if getting admission in nearby college won't be difficult. Use the rest of your time to hang out with your friends, excercise and sharpen your skills. First 2 are not optional.
+
+If you are in college, spend more time getting better at your tech stuff. You only need to pass the exams and get a degree; grades won't matter at all while finding a job. If you did all the 3 things I mentioned for school years - you will be a healthy, social and capable individual at this point. If you have already fucked up one or more of the 3, it's alright - you can fix that now but do it asap.
+
 ### I think I know nothing, I have no skills.
 Okay, how did you come to this conclusion? Did you get this feedback from multiple recent interviews? Do you just don't understand a single word when two 'experts' of your field are talking?
 
