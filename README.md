@@ -94,8 +94,13 @@ IP address, MAC address, port, client & server, dns, tcp, udp, proxy, tls/ssl, v
   - [TCP/IP protocol explained](https://www.youtube.com/watch?v=e5DEVa9eSN0)
   - [How SSL works?](https://howhttps.works)
 
+**To fully learn network basics**
+Preparation lessons for the CompTIA Network+ course from Professor Messer: [here](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/)
+
 #### Get familiar with terminal
 You will spend a lot of time in the terminal whether it is running programs or accessing remote servers. You can use any operating system but I suggest Linux-based operating systems simply because you can modify everything about it which is the essence of hacking. [Ubuntu](https://ubuntu.com/download/desktop) is a great linux distribution for beginners.
+
+If you are not sure which Linux distribution to choose, you can install it on a virtual machine using [VirtualBox](https://www.virtualbox.org/) or [VMware](https://www.vmware.com/), use [Docker](https://docs.docker.com/get-started/), or try [WSL](https://adamtheautomator.com/windows-subsystem-for-linux/).
 
 #### Programming
 To understand how a given software works (makes it easy to hack it) and to create your own software for hacking and other tasks.
@@ -180,6 +185,7 @@ Make peace with it and do it as early as possible. You don't want to miss out on
 This talk by Haroon Meer tackles this problem very well: [You and your research](https://www.youtube.com/watch?v=JoVx_-bM8Tg). This is a hacking specific version of  the original "[You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)" talk given to science students by Dr. Richard W. Hamming.
 
 You may also want to read my blog about [Creativity, Self-Doubt and Doing Remarkable Work](https://s0md3v.github.io/blog/creativity-and-self-doubt).
+You can check other resources repos like [this](https://github.com/beyzadp/the_kings_of_the_sources)
 
 ### I want to do things but I end up doing nothing all day.
 
