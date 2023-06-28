@@ -27,7 +27,7 @@ If there's something you think should be added/improved, please [create an issue
     - [How to avoid burnouts?](https://github.com/s0md3v/be-a-hacker#how-to-avoid-burnouts)
     - [I want to do great and innovative things.](https://github.com/s0md3v/be-a-hacker#i-want-to-do-great-and-innovative-things)
     - [How do I become social and confident?](https://github.com/s0md3v/be-a-hacker#how-do-i-become-social-and-confident)
-    - [I want to do things but I end doing nothing all day](https://github.com/s0md3v/be-a-hacker#i-want-to-do-things-but-i-end-up-doing-nothing-all-day)
+    - [I want to do things but I end up doing nothing all day](https://github.com/s0md3v/be-a-hacker#i-want-to-do-things-but-i-end-up-doing-nothing-all-day)
 
 ## Origin of hacking
 I believe it is important to know your roots so let's talk about them without overanalyzing the origin.
