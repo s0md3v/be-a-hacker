@@ -2,7 +2,7 @@
 
 Hacking is the art of using things in unintended ways. For example, if a software's trial is about to expire, you might be able to extend it by changing your computer's date to the previous week. That's hacking.
 
-There's no 'one right way' to learn hacking, all ways are right ways. That's why the purpose of this guide is to provide a direction rather than a roadmap. It may sound preachy/cringy in parts like the first sentence of this paragraph, sorry about that.
+There's no 'one right way' to learn hacking because it is a very broad term. That's why the purpose of this guide is to provide a direction rather than a roadmap. 
 
 If there's something you think should be added/improved, please [create an issue](https://github.com/s0md3v/be-a-hacker/issues/new).
 
@@ -51,12 +51,6 @@ If you have some information that you think might be helpful for other people, s
 2. Any mistakes or improvements to be made in your content will be pointed out so the overall quality of it will increase.
 3. You can only explain something if you understand it well which can be a self-check to see if you actually know enough about a topic.
 4. Exposure is a great thing. It will bring you opportunities and the power to influence people for good.
-
-### Don't be a 'rockstar'
-A rockstar is a person who might be skilled but isn't a very good person to work/talk with. They often have a big ego, they like to work alone because they know* everything and they often look down on people. It doesn't essentially mean that they are bad people because this behavior can be both intentional and unintentional. The point is, they look bad doing so and more importantly, make others feel bad.\
-To be honest, this is a common problem and I too once started to slip into this zone due to depression, it was not fun, that's why I have included it.
-
-tl;dr: Don't be some egoistic genius sitting in a room.
 
 ### Do cool shit
 Be curious, experiment a lot, build cool shit, that's the entire point, that's how it all started. If you spend your life using techniques and tools developed by other people, what's the point of choosing a cool path like this?
